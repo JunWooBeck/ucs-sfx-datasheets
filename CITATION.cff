@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: UCS-SFX Datasheets
+message: >-
+  If you use these datasets or their documentation, please cite the
+  accompanying DAFx 2026 paper.
+type: dataset
+authors:
+  - family-names: Beck
+    given-names: Jun Woo
+    affiliation: Georgia Institute of Technology
+  - family-names: Lerch
+    given-names: Alexander
+    affiliation: Georgia Institute of Technology
+license: CC-BY-SA-4.0
+repository-code: https://github.com/JunWooBeck/ucs-sfx-datasheets
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Sound Effects Dataset Unification With the Universal Category System
+  authors:
+    - family-names: Beck
+      given-names: Jun Woo
+    - family-names: Lerch
+      given-names: Alexander
+  collection-title: >-
+    Proceedings of the 29th International Conference on Digital Audio Effects (DAFx26)
+  location:
+    name: Cambridge, MA, USA
+  year: 2026
